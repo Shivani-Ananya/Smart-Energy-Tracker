@@ -2,6 +2,7 @@
 feat: add Super Energy Saver web app (HTML, CSS, JS) 🌱⚡
 
 Super Energy Saver is a lightweight web app that helps users understand and optimize their energy usage. Built using HTML, CSS, and JavaScript during my learning journey in frontend development.
+
 **Features:**
 Intuitive UI with clean visuals
 Interactive energy usage tracker
